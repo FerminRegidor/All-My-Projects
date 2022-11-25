@@ -1,0 +1,111 @@
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #1C1C1C;
+}
+
+.generator {
+    color: white;
+    
+width: 550px;
+height: 550px;
+margin-top: 100px;
+background: #1F2937;
+}
+li {
+    color: #FFFFFF;
+    height: 92px;
+    width: 400px;
+    list-style-type: none;
+    font-family: 'Karla', sans-serif;
+    font-family: 'Karla';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 36px;
+}
+hr {
+    border: 1px solid #2F3E53;
+}
+.allinside {
+    position: absolute;
+    padding: 6em 5em;
+}
+.randomed {
+    color: #4ADF86;
+
+}
+.miloco {
+    font-family: 'Karla', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 28px;
+    color: #D5D4D8;
+}
+p{
+    font-family: 'Karla', sans-serif;
+    font-style: normal;
+    color: #D5D4D8;
+}
+button {
+    margin-top: 50px;
+    color: #FFFFFF;
+    font-family: 'Karla', sans-serif;
+    font-size: 16px;
+    border: none;
+    
+    background: #10B981;
+    width: 191px;
+    height: 42px;
+    box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+    border-radius: 6px;
+    margin-bottom: 40px;
+    outline: none;
+}
+.buttonspan {
+    font-size: 17px;
+    width: 178px;
+    height: 20px;
+}
+.genPassBlock {
+    position: absolute;
+}
+.genPass {
+    display: flex;
+    flex-direction: row;
+    
+    
+}
+#generated1 {
+    width: 190px;
+    height: 39px;
+    left: 52px;
+    margin: 10px 20px 10px 0;
+    text-align: center;
+
+    background: #273549;
+    border-radius: 6px;
+}
+#generated2 {
+    width: 190px;
+    height: 39px;
+    left: 52px;
+    margin: 10px 20px 10px 0;
+    text-align: center;
+
+
+    background: #273549;
+    border-radius: 6px;
+}
+.textPass {
+    padding: 10px;
+    height: 34px;
+    width: 170px;
+    text-align: center;
+    color: #55F991;
+}
+#myRange {
+     outline: none;
+}
